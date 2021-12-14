@@ -1,0 +1,18 @@
+Table,Number of Records
+acquisition_sample,6490
+agricultural_acquisition,810
+food,35379
+food_attribute,3635
+food_calorie_conversion_factor,177
+food_component,3066
+food_nutrient,114105
+food_nutrient_conversion_factor,330
+food_portion,10678
+food_protein_conversion_factor,153
+food_update_log_entry,35379
+foundation_food,159
+input_food,4167
+market_acquisition,5706
+sample_food,2208
+sub_sample_food,26431
+sub_sample_result,85773
